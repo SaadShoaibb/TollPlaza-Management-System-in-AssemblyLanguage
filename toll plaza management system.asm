@@ -1,7 +1,7 @@
 .model small
 .stack 100h
 .data 
-menu0 db 'Project by Huzaifa Rehan, Saad Shoaib, Syed Askari$'
+menu0 db 'Project by Saad Shoaib$'
 menu db 'Toll Plaza System$'
 menu1 db 'Press 1 for Car Toll$'
 menu2 db 'Press 2 for Bus Toll$'
